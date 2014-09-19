@@ -1,6 +1,9 @@
 Markarts
 ========
 
+**[Download](https://github.com/neckcen/banished-markart/releases/latest)** |
+[Changelog](https://github.com/neckcen/banished-markart/releases)
+
 Markarts is a mod for [Banished](http://www.shiningrocksoftware.com/game/).
 It adds miniature specialised markets: markarts. [They use the storage cart model
 (2x2)](http://i.imgur.com/tSdvogx.png), require a single vendor to operate and have a storage capacity of 1000
@@ -49,14 +52,3 @@ Banished © 2014 Shining Rock Software. All Rights Reserved.
 
 The markart mod © 2014 Sylvain Didelot. Released under the MIT Licence.
 
-Changelog
----------
-
-### version 2 (not retro-compatible)
-
-* Cleaned and published code.
-* Removed alcohol from food markarts as citizen will only consume it in taverns.
-
-### version 1
-
-* Initial release.
