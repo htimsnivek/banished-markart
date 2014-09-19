@@ -63,7 +63,7 @@ ToolbarDescription toolbar
     SpriteSheet _spriteSheet = "Neckcen/Markart/Dialog/SpriteSheet.rsc";
     String _spriteName = "Wood";
 
-    StringTable _stringTable = "Neckcen/Markart/Dialog/StringTable.rsc";
+    StringTable _stringTable = "Dialog/StringTable.rsc:NeckcenMarkart";
     String _stringName = "Wood";
     String _stringNameLwr = "WoodLwr";
     String _toolTip = "WoodTip";

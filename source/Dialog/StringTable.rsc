@@ -1,4 +1,4 @@
-StringTable resource
+StringTable NeckcenMarkart
 {
 	Entry _strings
 	[

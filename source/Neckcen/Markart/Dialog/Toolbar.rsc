@@ -3,7 +3,7 @@ Toolbar Markart
     Toolbar _parent = "Game\Toolbar.rsc:storage";
     int _sortPriority = 310;
 
-    StringTable _stringTable = "Neckcen/Markart/Dialog/StringTable.rsc";
+    StringTable _stringTable = "Dialog/StringTable.rsc:NeckcenMarkart";
     String _toolTip = "MarkartTip";
     SpriteSheet _spriteSheet = "Neckcen/Markart/Dialog/SpriteSheet.rsc";
     String _image = "Markart";

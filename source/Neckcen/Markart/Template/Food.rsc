@@ -63,7 +63,7 @@ ToolbarDescription toolbar
     SpriteSheet _spriteSheet = "Dialog/SpriteSheet.rsc";
     String _spriteName = "ToolbarFood";
 
-    StringTable _stringTable = "Neckcen/Markart/Dialog/StringTable.rsc";
+    StringTable _stringTable = "Dialog/StringTable.rsc:NeckcenMarkart";
     String _stringName = "Food";
     String _stringNameLwr = "FoodLwr";
     String _toolTip = "FoodTip";
