@@ -3,14 +3,14 @@ ExternalList resource
 	External _resources
 	[
 		// toolbar - references building and everything else - nothing else need be listed here
-        "Neckcen/Markart/Dialog/Toolbar.rsc:Markart"
-        "Neckcen/Markart/Dialog/Toolbar.rsc:MarkartBlacksmith"
-        "Neckcen/Markart/Dialog/Toolbar.rsc:MarkartConsumable"
-        "Neckcen/Markart/Dialog/Toolbar.rsc:MarkartConsumableNoCoal"
-        "Neckcen/Markart/Dialog/Toolbar.rsc:MarkartFood"
-        "Neckcen/Markart/Dialog/Toolbar.rsc:MarkartFoodNoGrain"
-        "Neckcen/Markart/Dialog/Toolbar.rsc:MarkartTailor"
-        "Neckcen/Markart/Dialog/Toolbar.rsc:MarkartTavern"
-        "Neckcen/Markart/Dialog/Toolbar.rsc:MarkartWood"
+        "Neckcen/Markart/Game/Toolbar.rsc:Markart"
+        "Neckcen/Markart/Game/Toolbar.rsc:MarkartBlacksmith"
+        "Neckcen/Markart/Game/Toolbar.rsc:MarkartConsumable"
+        "Neckcen/Markart/Game/Toolbar.rsc:MarkartConsumableNoCoal"
+        "Neckcen/Markart/Game/Toolbar.rsc:MarkartFood"
+        "Neckcen/Markart/Game/Toolbar.rsc:MarkartFoodNoGrain"
+        "Neckcen/Markart/Game/Toolbar.rsc:MarkartTailor"
+        "Neckcen/Markart/Game/Toolbar.rsc:MarkartTavern"
+        "Neckcen/Markart/Game/Toolbar.rsc:MarkartWood"
 	]
 }
